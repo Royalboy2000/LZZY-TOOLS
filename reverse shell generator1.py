@@ -1,6 +1,12 @@
-
 import sys,time,os
+from pyfiglet import figlet_format
 
+
+print(figlet_format("LZZY TOOLS", font = "standard"))
+print("")
+print("follow me on tiktok:royal._.boy7")
+print("")
+print("follow me on instagram:s.a.mi.r_012")
 def typingPrint(text):
     for character in text:
         sys.stdout.write(character)
