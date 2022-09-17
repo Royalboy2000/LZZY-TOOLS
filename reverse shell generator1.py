@@ -81,7 +81,7 @@ startlistener3()
 
 
 if options == "4":
-    typingPrint("starting the listener in 3...\n")
+    typingPrint("starting the installation in 3...\n")
 time.sleep(1)
 typingPrint("2...\n")
 time.sleep(1)
